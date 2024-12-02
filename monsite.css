@@ -1,0 +1,31 @@
+body{
+    background-color: #FEF7EF;
+    background-image: url(backgroundimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: #F7C56A;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.Navbar{
+    font-family: Limelight;
+}
+.Navbar a{
+    text-decoration: none;
+    color : #B83B09;
+    font-size : 2em;
+    margin-left: 13%;
+}
+h2{
+    font-family: Lobster;
+    color: #E66129;
+    font-size: 4.5em;
+    letter-spacing : normal;
+}
+
+
+
