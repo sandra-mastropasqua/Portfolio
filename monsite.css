@@ -23,9 +23,38 @@ header{
 h2{
     font-family: Lobster;
     color: #E66129;
-    font-size: 4.5em;
-    letter-spacing : normal;
+    font-size: 5em;
+    letter-spacing : -1px;
+    margin-top: 0%;
 }
+
+img {
+    float: left;
+    shape-outside: circle(30% at 30%);
+    margin: 20px;
+}
+.cercle{
+    width : 450px;
+    height : 450px;
+    background-color: #F7C56A;
+    border : 5px solid #E66129;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-top: -7%;
+}
+
+.icone{
+    margin-left : 42%;
+}
+#Metier{
+    font-family: Lobster;
+    color :#E66129;
+    margin-top : 5%;
+    margin-left: 37%;
+    font-size: 4em;
+}
+
+
 
 
 
